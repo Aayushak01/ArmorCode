@@ -2,7 +2,6 @@
   "name": "campaigns",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aayushak01.io/ArmorCode",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
