@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +48,8 @@
     "gh-pages": "^6.2.0",
     "typescript": "^5.7.2"
   },
-  "homepage": "https://github.com/Aayushak01/ArmorCode.git"
+  
+  "homepage": "https://Aayushak01.github.io/ArmorCode"
+
 
 }
