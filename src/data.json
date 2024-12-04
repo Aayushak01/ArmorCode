@@ -8,8 +8,8 @@
         "createdOn": 1734259200000,
         "price": { "en": "View Pricing", "fr": "Voir les prix" },
         "csv": "https://example.com/csv-whatsapp",
-        "report": "https://example.com/report-whatsapp"
-        
+        "report": "https://example.com/report-whatsapp",
+        "image_url": "https://via.placeholder.com/100"
       },
       {
         "id": 2,
@@ -18,8 +18,8 @@
         "createdOn": 1734259200000,
         "price": { "en": "View Pricing", "fr": "Voir les prix" },
         "csv": "https://example.com/csv-jewels",
-        "report": "https://example.com/report-jewels"
-        
+        "report": "https://example.com/report-jewels",
+        "image_url": "https://via.placeholder.com/100"
       },
       {
         "id": 3,
@@ -28,8 +28,8 @@
         "createdOn": 1734259200000,
         "price": { "en": "View Pricing", "fr": "Voir les prix" },
         "csv": "https://example.com/csv-rush",
-        "report": "https://example.com/report-rush"
-        
+        "report": "https://example.com/report-rush",
+        "image_url": "https://via.placeholder.com/100"
       },
       {
         "id": 4,
@@ -38,8 +38,8 @@
         "createdOn": 1734259200000,
         "price": { "en": "View Pricing", "fr": "Voir les prix" },
         "csv": "https://example.com/csv-hunter",
-        "report": "https://example.com/report-hunter"
-        
+        "report": "https://example.com/report-hunter",
+        "image_url": "https://via.placeholder.com/100"
       },
       {
         "id": 5,
@@ -48,8 +48,8 @@
         "createdOn": 1734259200000,
         "price": { "en": "View Pricing", "fr": "Voir les prix" },
         "csv": "https://example.com/csv-vortex",
-        "report": "https://example.com/report-vortex"
-        
+        "report": "https://example.com/report-vortex",
+        "image_url": "https://via.placeholder.com/100"
       }
     ],
     "live": [
@@ -60,8 +60,8 @@
     "createdOn": 1738579200000,
     "price": { "en": "View Pricing", "fr": "Voir les prix" },
     "csv": "https://example.com/csv-mole",
-    "report": "https://example.com/report-mole"
-    
+    "report": "https://example.com/report-mole",
+    "image_url": "https://via.placeholder.com/100"
   },
   {
     "id": 7,
@@ -70,8 +70,8 @@
     "createdOn": 1738665600000,
     "price": { "en": "View Pricing", "fr": "Voir les prix" },
     "csv": "https://example.com/csv-jungle",
-    "report": "https://example.com/report-jungle"
-    
+    "report": "https://example.com/report-jungle",
+    "image_url": "https://via.placeholder.com/100"
   },
   {
     "id": 8,
@@ -80,8 +80,8 @@
     "createdOn": 1738752000000,
     "price": { "en": "View Pricing", "fr": "Voir les prix" },
     "csv": "https://example.com/csv-knight",
-    "report": "https://example.com/report-knight"
-    
+    "report": "https://example.com/report-knight",
+    "image_url": "https://via.placeholder.com/100"
   },
   {
     "id": 9,
@@ -90,8 +90,8 @@
     "createdOn": 1738838400000,
     "price": { "en": "View Pricing", "fr": "Voir les prix" },
     "csv": "https://example.com/csv-raiders",
-    "report": "https://example.com/report-raiders"
-    
+    "report": "https://example.com/report-raiders",
+    "image_url": "https://via.placeholder.com/100"
   },
   {
     "id": 10,
@@ -100,8 +100,8 @@
     "createdOn": 1738924800000,
     "price": { "en": "View Pricing", "fr": "Voir les prix" },
     "csv": "https://example.com/csv-sky",
-    "report": "https://example.com/report-sky"
-    
+    "report": "https://example.com/report-sky",
+    "image_url": "https://via.placeholder.com/100"
   }
 ],
     "past": [
@@ -112,8 +112,8 @@
       "createdOn": 1732003200000,
       "price": { "en": "View Pricing", "fr": "Voir les prix" },
       "csv": "https://example.com/csv-mancala",
-      "report": "https://example.com/report-mancala"
-      
+      "report": "https://example.com/report-mancala",
+      "image_url": "https://via.placeholder.com/100"
     },
     {
       "id": 12,
@@ -122,8 +122,8 @@
       "createdOn": 1732003200000,
       "price": { "en": "View Pricing", "fr": "Voir les prix" },
       "csv": "https://example.com/csv-oceanic",
-      "report": "https://example.com/report-oceanic"
-      
+      "report": "https://example.com/report-oceanic",
+      "image_url": "https://via.placeholder.com/100"
     },
     {
       "id": 13,
@@ -132,8 +132,8 @@
       "createdOn": 1732003200000,
       "price": { "en": "View Pricing", "fr": "Voir les prix" },
       "csv": "https://example.com/csv-dragon",
-      "report": "https://example.com/report-dragon"
-     
+      "report": "https://example.com/report-dragon",
+      "image_url": "https://via.placeholder.com/100"
     },
     {
       "id": 14,
@@ -142,8 +142,8 @@
       "createdOn": 1732003200000,
       "price": { "en": "View Pricing", "fr": "Voir les prix" },
       "csv": "https://example.com/csv-stormfront",
-      "report": "https://example.com/report-stormfront"
-      
+      "report": "https://example.com/report-stormfront",
+      "image_url": "https://via.placeholder.com/100"
     },
     {
       "id": 15,
@@ -152,8 +152,8 @@
       "createdOn": 1732003200000,
       "price": { "en": "View Pricing", "fr": "Voir les prix" },
       "csv": "https://example.com/csv-titan",
-      "report": "http://localhost:3000https://png.pngtree.com/png-clipart/20221019/original/pngtree-whatsapp-icon-png-image_8704827.png"
-      
+      "report": "https://example.com/report-titan",
+      "image_url": "https://via.placeholder.com/100"
     }  ]
   }
   
