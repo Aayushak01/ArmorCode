@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.70115338.css",
-    "main.js": "/static/js/main.30f22200.js",
-    "index.html": "/index.html",
-    "main.70115338.css.map": "/static/css/main.70115338.css.map",
-    "main.30f22200.js.map": "/static/js/main.30f22200.js.map"
+    "main.css": "/ArmorCode/static/css/main.70115338.css",
+    "main.js": "/ArmorCode/static/js/main.30f22200.js",
+    "index.html": "/ArmorCode/index.html",
+    "main.70115338.css.map": "/ArmorCode/static/css/main.70115338.css.map",
+    "main.30f22200.js.map": "/ArmorCode/static/js/main.30f22200.js.map"
   },
   "entrypoints": [
     "static/css/main.70115338.css",
