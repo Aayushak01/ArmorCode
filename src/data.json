@@ -1,0 +1,159 @@
+
+{
+    "upcoming": [
+      {
+        "id": 1,
+        "name": { "en": "Test Whatsapp", "fr": "Test Whatsapp (FR)" },
+        "region": { "en": "US", "fr": "États-Unis" },
+        "createdOn": 1734259200000,
+        "price": { "en": "View Pricing", "fr": "Voir les prix" },
+        "csv": "https://example.com/csv-whatsapp",
+        "report": "https://example.com/report-whatsapp"
+        
+      },
+      {
+        "id": 2,
+        "name": { "en": "Super Jewels Quest", "fr": "Super Jewels Quest (FR)" },
+        "region": { "en": "CA, FR", "fr": "CA, FR" },
+        "createdOn": 1734259200000,
+        "price": { "en": "View Pricing", "fr": "Voir les prix" },
+        "csv": "https://example.com/csv-jewels",
+        "report": "https://example.com/report-jewels"
+        
+      },
+      {
+        "id": 3,
+        "name": { "en": "Galaxy Rush", "fr": "Galaxy Rush (FR)" },
+        "region": { "en": "DE", "fr": "Allemagne" },
+        "createdOn": 1734259200000,
+        "price": { "en": "View Pricing", "fr": "Voir les prix" },
+        "csv": "https://example.com/csv-rush",
+        "report": "https://example.com/report-rush"
+        
+      },
+      {
+        "id": 4,
+        "name": { "en": "Digital Hunter", "fr": "Digital Hunter (FR)" },
+        "region": { "en": "IN", "fr": "Inde" },
+        "createdOn": 1734259200000,
+        "price": { "en": "View Pricing", "fr": "Voir les prix" },
+        "csv": "https://example.com/csv-hunter",
+        "report": "https://example.com/report-hunter"
+        
+      },
+      {
+        "id": 5,
+        "name": { "en": "Vortex Wars", "fr": "Vortex Wars (FR)" },
+        "region": { "en": "GB", "fr": "Royaume-Uni" },
+        "createdOn": 1734259200000,
+        "price": { "en": "View Pricing", "fr": "Voir les prix" },
+        "csv": "https://example.com/csv-vortex",
+        "report": "https://example.com/report-vortex"
+        
+      }
+    ],
+    "live": [
+  {
+    "id": 6,
+    "name": { "en": "Mole Slayer", "fr": "Mole Slayer (FR)" },
+    "region": { "en": "FR", "fr": "France" },
+    "createdOn": 1738579200000,
+    "price": { "en": "View Pricing", "fr": "Voir les prix" },
+    "csv": "https://example.com/csv-mole",
+    "report": "https://example.com/report-mole"
+    
+  },
+  {
+    "id": 7,
+    "name": { "en": "Jungle Escape", "fr": "Jungle Escape (FR)" },
+    "region": { "en": "BR", "fr": "Brésil" },
+    "createdOn": 1738665600000,
+    "price": { "en": "View Pricing", "fr": "Voir les prix" },
+    "csv": "https://example.com/csv-jungle",
+    "report": "https://example.com/report-jungle"
+    
+  },
+  {
+    "id": 8,
+    "name": { "en": "Knight's Quest", "fr": "Knight's Quest (FR)" },
+    "region": { "en": "US", "fr": "États-Unis" },
+    "createdOn": 1738752000000,
+    "price": { "en": "View Pricing", "fr": "Voir les prix" },
+    "csv": "https://example.com/csv-knight",
+    "report": "https://example.com/report-knight"
+    
+  },
+  {
+    "id": 9,
+    "name": { "en": "Space Raiders", "fr": "Space Raiders (FR)" },
+    "region": { "en": "JP", "fr": "Japon" },
+    "createdOn": 1738838400000,
+    "price": { "en": "View Pricing", "fr": "Voir les prix" },
+    "csv": "https://example.com/csv-raiders",
+    "report": "https://example.com/report-raiders"
+    
+  },
+  {
+    "id": 10,
+    "name": { "en": "Sky Lords", "fr": "Sky Lords (FR)" },
+    "region": { "en": "AU", "fr": "Australie" },
+    "createdOn": 1738924800000,
+    "price": { "en": "View Pricing", "fr": "Voir les prix" },
+    "csv": "https://example.com/csv-sky",
+    "report": "https://example.com/report-sky"
+    
+  }
+],
+    "past": [
+    {
+      "id": 11,
+      "name": { "en": "Mancala Mix", "fr": "Mancala Mix (FR)" },
+      "region": { "en": "JP", "fr": "Japon" },
+      "createdOn": 1732003200000,
+      "price": { "en": "View Pricing", "fr": "Voir les prix" },
+      "csv": "https://example.com/csv-mancala",
+      "report": "https://example.com/report-mancala"
+      
+    },
+    {
+      "id": 12,
+      "name": { "en": "Oceanic Adventures", "fr": "Oceanic Adventures (FR)" },
+      "region": { "en": "AU", "fr": "Australie" },
+      "createdOn": 1732003200000,
+      "price": { "en": "View Pricing", "fr": "Voir les prix" },
+      "csv": "https://example.com/csv-oceanic",
+      "report": "https://example.com/report-oceanic"
+      
+    },
+    {
+      "id": 13,
+      "name": { "en": "Dragon's Lair", "fr": "Dragon's Lair (FR)" },
+      "region": { "en": "CN", "fr": "Chine" },
+      "createdOn": 1732003200000,
+      "price": { "en": "View Pricing", "fr": "Voir les prix" },
+      "csv": "https://example.com/csv-dragon",
+      "report": "https://example.com/report-dragon"
+     
+    },
+    {
+      "id": 14,
+      "name": { "en": "Stormfront", "fr": "Stormfront (FR)" },
+      "region": { "en": "US", "fr": "États-Unis" },
+      "createdOn": 1732003200000,
+      "price": { "en": "View Pricing", "fr": "Voir les prix" },
+      "csv": "https://example.com/csv-stormfront",
+      "report": "https://example.com/report-stormfront"
+      
+    },
+    {
+      "id": 15,
+      "name": { "en": "Titan's Clash", "fr": "Titan's Clash (FR)" },
+      "region": { "en": "DE", "fr": "Allemagne" },
+      "createdOn": 1732003200000,
+      "price": { "en": "View Pricing", "fr": "Voir les prix" },
+      "csv": "https://example.com/csv-titan",
+      "report": "http://localhost:3000https://png.pngtree.com/png-clipart/20221019/original/pngtree-whatsapp-icon-png-image_8704827.png"
+      
+    }  ]
+  }
+  

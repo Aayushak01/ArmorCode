@@ -1,0 +1,53 @@
+{
+  "name": "campaigns",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "font-awesome": "^4.7.0",
+    "i18next": "^24.0.5",
+    "react": "^18.3.1",
+    "react-datepicker": "^7.5.0",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.1.3",
+    "react-modal": "^3.16.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0",
+    "typescript": "^5.7.2"
+  },
+  "homepage": "https://github.com/Aayushak01/ArmorCode.git"
+
+}

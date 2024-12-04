@@ -1,0 +1,148 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around; 
+  align-items: center; /* Vertically align items */
+  position: relative; /* Allow positioning for language switcher */
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 36px;
+  color: #050a70;
+  margin: 0;
+}
+
+.language-switch{
+  background: none;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.language-switch:hover {
+  background-color: #3d8fe6;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.navbar button {
+  width: 30%;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+  transition: background-color 0.3s ease;
+}
+
+.navbar button:hover {
+  background-color: #3d8fe6;
+  color: white;
+}
+
+.navbar .active {
+  background-color: #3d8fe6;
+  color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+td {
+  background-color: #fff;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.action-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  font-size: 14px;
+  width: 30%;
+}
+
+.action-button:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.action-button i {
+  font-size: 16px;
+}
+
+button {
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.Schedule-again{
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.price-button {
+  background: none;
+  border: none;
+  color: #007bff;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.price-button i {
+  font-size: 18px;
+}
+
+.price-button:hover {
+  color: #0056b3;
+}

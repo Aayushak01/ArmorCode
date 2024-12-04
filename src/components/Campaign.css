@@ -1,0 +1,87 @@
+
+.campaign-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .campaign-header {
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .campaign-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  .campaign-table th, 
+  .campaign-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .campaign-table th {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .campaign-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .campaign-table tr:hover {
+    background-color: #ddd;
+  }
+  
+  .campaign-table .actions {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .campaign-button {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .campaign-button.csv {
+    background-color: #2196f3;
+    color: white;
+  }
+  
+  .campaign-button.csv:hover {
+    background-color: #1976d2;
+  }
+  
+  .campaign-button.report {
+    background-color: #ff9800;
+    color: white;
+  }
+  
+  .campaign-button.report:hover {
+    background-color: #e68900;
+  }
+  
+  .campaign-button.schedule {
+    background-color: #9c27b0;
+    color: white;
+  }
+  
+  .campaign-button.schedule:hover {
+    background-color: #7b1fa2;
+  }
+
+
+  
